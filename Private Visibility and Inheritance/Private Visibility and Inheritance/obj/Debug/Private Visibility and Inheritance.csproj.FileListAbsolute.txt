@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Private Visibility and Inheritance\Private Visibility and Inheritance\bin\Debug\Private Visibility and Inheritance.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Private Visibility and Inheritance\Private Visibility and Inheritance\bin\Debug\Private Visibility and Inheritance.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Private Visibility and Inheritance\Private Visibility and Inheritance\bin\Debug\Private Visibility and Inheritance.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Private Visibility and Inheritance\Private Visibility and Inheritance\obj\Debug\Private Visibility and Inheritance.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Private Visibility and Inheritance\Private Visibility and Inheritance\obj\Debug\Private Visibility and Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Private Visibility and Inheritance\Private Visibility and Inheritance\obj\Debug\Private Visibility and Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Private Visibility and Inheritance\Private Visibility and Inheritance\obj\Debug\Private Visibility and Inheritance.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Private Visibility and Inheritance\Private Visibility and Inheritance\obj\Debug\Private Visibility and Inheritance.pdb
