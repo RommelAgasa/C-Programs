@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Indexers\Indexers\bin\Debug\Indexers.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Indexers\Indexers\bin\Debug\Indexers.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Indexers\Indexers\bin\Debug\Indexers.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Indexers\Indexers\obj\Debug\Indexers.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Indexers\Indexers\obj\Debug\Indexers.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Indexers\Indexers\obj\Debug\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Indexers\Indexers\obj\Debug\Indexers.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Indexers\Indexers\obj\Debug\Indexers.pdb
