@@ -1,0 +1,18 @@
+C:\Users\CompLab\Desktop\LabSheet01 - Agasa\LabSheet01 - Agasa\bin\Debug\LabSheet01 - Agasa.exe
+C:\Users\CompLab\Desktop\LabSheet01 - Agasa\LabSheet01 - Agasa\bin\Debug\LabSheet01 - Agasa.pdb
+C:\Users\CompLab\Desktop\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01___Agasa.Form1.resources
+C:\Users\CompLab\Desktop\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01___Agasa.Properties.Resources.resources
+C:\Users\CompLab\Desktop\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.csproj.GenerateResource.Cache
+C:\Users\CompLab\Desktop\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.exe
+C:\Users\CompLab\Desktop\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.pdb
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\bin\Debug\LabSheet01 - Agasa.exe.config
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\bin\Debug\LabSheet01 - Agasa.exe
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\bin\Debug\LabSheet01 - Agasa.pdb
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.csproj.AssemblyReference.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01___Agasa.Form1.resources
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01___Agasa.Properties.Resources.resources
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.csproj.GenerateResource.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.csproj.CoreCompileInputs.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.exe
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\LabSheet01 - Agasa\LabSheet01 - Agasa\obj\x86\Debug\LabSheet01 - Agasa.pdb
