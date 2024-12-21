@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\PropertiesDemo\PropertiesDemo\bin\Debug\PropertiesDemo.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\PropertiesDemo\PropertiesDemo\obj\Debug\PropertiesDemo.pdb
