@@ -1,0 +1,10 @@
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\bin\Debug\Task 13 - Duazo.exe.config
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\bin\Debug\Task 13 - Duazo.exe
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\bin\Debug\Task 13 - Duazo.pdb
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\obj\Debug\Task_13___Duazo.Form1.resources
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\obj\Debug\Task_13___Duazo.Properties.Resources.resources
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\obj\Debug\Task 13 - Duazo.csproj.GenerateResource.cache
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\obj\Debug\Task 13 - Duazo.csproj.CoreCompileInputs.cache
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\obj\Debug\Task 13 - Duazo.exe
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\obj\Debug\Task 13 - Duazo.pdb
+C:\Users\romme\source\repos\Task 13 - Duazo\Task 13 - Duazo\obj\Debug\Task 13 - Duazo.csproj.AssemblyReference.cache
