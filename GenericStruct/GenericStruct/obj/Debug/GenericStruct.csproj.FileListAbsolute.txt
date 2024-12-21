@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\GenericStruct\GenericStruct\bin\Debug\GenericStruct.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\GenericStruct\GenericStruct\bin\Debug\GenericStruct.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\GenericStruct\GenericStruct\bin\Debug\GenericStruct.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\GenericStruct\GenericStruct\obj\Debug\GenericStruct.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\GenericStruct\GenericStruct\obj\Debug\GenericStruct.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\GenericStruct\GenericStruct\obj\Debug\GenericStruct.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\GenericStruct\GenericStruct\obj\Debug\GenericStruct.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\GenericStruct\GenericStruct\obj\Debug\GenericStruct.pdb
