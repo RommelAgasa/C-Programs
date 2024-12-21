@@ -1,0 +1,3 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Namespace\Namespace\obj\Debug\Namespace.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Namespace\Namespace\obj\Debug\Namespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Namespace\Namespace\obj\Debug\Namespace.csproj.CoreCompileInputs.cache
