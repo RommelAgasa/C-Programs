@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Privacy Leak Demo\Privacy Leak Demo\bin\Debug\Privacy Leak Demo.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Privacy Leak Demo\Privacy Leak Demo\bin\Debug\Privacy Leak Demo.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Privacy Leak Demo\Privacy Leak Demo\bin\Debug\Privacy Leak Demo.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Privacy Leak Demo\Privacy Leak Demo\obj\Debug\Privacy Leak Demo.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Privacy Leak Demo\Privacy Leak Demo\obj\Debug\Privacy Leak Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Privacy Leak Demo\Privacy Leak Demo\obj\Debug\Privacy Leak Demo.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Privacy Leak Demo\Privacy Leak Demo\obj\Debug\Privacy Leak Demo.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Privacy Leak Demo\Privacy Leak Demo\obj\Debug\Privacy Leak Demo.pdb
