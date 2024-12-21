@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romme\\Documents\\BSIT 3\\Application and Development\\Prelim\\Activity\\Struct Implementation\\Struct Implementation\\Struct Implementation.csproj",
+      "projectUniqueName": "C:\\Users\\romme\\OneDrive\\Documents\\Event Driven Programming\\Struct Implementation\\Struct Implementation\\Struct Implementation.csproj",
       "projectName": "Struct Implementation",
-      "projectPath": "C:\\Users\\romme\\Documents\\BSIT 3\\Application and Development\\Prelim\\Activity\\Struct Implementation\\Struct Implementation\\Struct Implementation.csproj",
+      "projectPath": "C:\\Users\\romme\\OneDrive\\Documents\\Event Driven Programming\\Struct Implementation\\Struct Implementation\\Struct Implementation.csproj",
       "packagesPath": "C:\\Users\\romme\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romme\\Documents\\BSIT 3\\Application and Development\\Prelim\\Activity\\Struct Implementation\\Struct Implementation\\obj\\",
+      "outputPath": "C:\\Users\\romme\\OneDrive\\Documents\\Event Driven Programming\\Struct Implementation\\Struct Implementation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\romme\\AppData\\Roaming\\NuGet\\NuGet.Config",

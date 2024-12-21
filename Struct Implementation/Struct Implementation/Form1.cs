@@ -103,17 +103,6 @@ namespace Struct_Implementation
 
         private void LoadCoffeeTransactions()
         {
-
-            //------------------------------------------------------------------------
-            //IEnumerable<CoffeeSales> filter = from sale in CoffeeTransactions
-            //                                  where sale.TypeString == "Regular"
-            //                                  select sale;
-
-            //var filter = from sale in CoffeeTransactions
-            //                                  where sale.TypeString == "Regular"
-            //                                  select sale;
-
-            //------------------------------------------------------------------------
             lstTransactions.Items.Clear();
             string frmt = "{0,-20}{1,-15}{2,15}";
             lstTransactions.Items.Add(string.Format(frmt, "", "R n' R Coffee Sale", ""));
