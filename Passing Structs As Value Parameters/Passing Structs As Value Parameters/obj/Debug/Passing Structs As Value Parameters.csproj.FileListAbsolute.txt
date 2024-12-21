@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Passing Structs As Value Parameters\Passing Structs As Value Parameters\bin\Debug\Passing Structs As Value Parameters.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Passing Structs As Value Parameters\Passing Structs As Value Parameters\bin\Debug\Passing Structs As Value Parameters.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Passing Structs As Value Parameters\Passing Structs As Value Parameters\bin\Debug\Passing Structs As Value Parameters.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Passing Structs As Value Parameters\Passing Structs As Value Parameters\obj\Debug\Passing Structs As Value Parameters.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Passing Structs As Value Parameters\Passing Structs As Value Parameters\obj\Debug\Passing Structs As Value Parameters.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Passing Structs As Value Parameters\Passing Structs As Value Parameters\obj\Debug\Passing Structs As Value Parameters.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Passing Structs As Value Parameters\Passing Structs As Value Parameters\obj\Debug\Passing Structs As Value Parameters.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Passing Structs As Value Parameters\Passing Structs As Value Parameters\obj\Debug\Passing Structs As Value Parameters.pdb
