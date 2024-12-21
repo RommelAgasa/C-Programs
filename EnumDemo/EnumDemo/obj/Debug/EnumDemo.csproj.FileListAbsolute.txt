@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\EnumDemo\EnumDemo\obj\Debug\EnumDemo.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\EnumDemo\EnumDemo\bin\Debug\EnumDemo.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\EnumDemo\EnumDemo\bin\Debug\EnumDemo.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\EnumDemo\EnumDemo\bin\Debug\EnumDemo.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\EnumDemo\EnumDemo\obj\Debug\EnumDemo.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\EnumDemo\EnumDemo\obj\Debug\EnumDemo.pdb
