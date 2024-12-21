@@ -1,0 +1,17 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\bin\Debug\net6.0-windows\LabSheet03 - Agasa.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\bin\Debug\net6.0-windows\LabSheet03 - Agasa.deps.json
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\bin\Debug\net6.0-windows\LabSheet03 - Agasa.runtimeconfig.json
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\bin\Debug\net6.0-windows\LabSheet03 - Agasa.dll
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\bin\Debug\net6.0-windows\LabSheet03 - Agasa.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03___Agasa.Form1.resources
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.csproj.GenerateResource.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.AssemblyInfoInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.AssemblyInfo.cs
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.dll
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\refint\LabSheet03 - Agasa.dll
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\LabSheet03 - Agasa.genruntimeconfig.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Linq\LabSheet03 - Agasa\LabSheet03 - Agasa\obj\Debug\net6.0-windows\ref\LabSheet03 - Agasa.dll
