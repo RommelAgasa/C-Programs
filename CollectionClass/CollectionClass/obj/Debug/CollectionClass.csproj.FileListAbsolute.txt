@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\CollectionClass\CollectionClass\bin\Debug\CollectionClass.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\CollectionClass\CollectionClass\bin\Debug\CollectionClass.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\CollectionClass\CollectionClass\bin\Debug\CollectionClass.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\CollectionClass\CollectionClass\obj\Debug\CollectionClass.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\CollectionClass\CollectionClass\obj\Debug\CollectionClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\CollectionClass\CollectionClass\obj\Debug\CollectionClass.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\CollectionClass\CollectionClass\obj\Debug\CollectionClass.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\CollectionClass\CollectionClass\obj\Debug\CollectionClass.pdb
