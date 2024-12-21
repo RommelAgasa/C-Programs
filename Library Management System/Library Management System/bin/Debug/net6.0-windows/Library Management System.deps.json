@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Library Management System/1.0.0": {
+        "dependencies": {
+          "MySqlConnector": "2.0.0.0"
+        },
+        "runtime": {
+          "Library Management System.dll": {}
+        }
+      },
+      "MySqlConnector/2.0.0.0": {
+        "runtime": {
+          "MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.2.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library Management System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySqlConnector/2.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
