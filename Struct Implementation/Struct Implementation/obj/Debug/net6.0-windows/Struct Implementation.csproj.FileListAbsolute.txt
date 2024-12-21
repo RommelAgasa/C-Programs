@@ -1,0 +1,34 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.deps.json
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.runtimeconfig.json
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.dll
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct_Implementation.Form1.resources
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.csproj.GenerateResource.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.AssemblyInfoInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.AssemblyInfo.cs
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.dll
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\refint\Struct Implementation.dll
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.genruntimeconfig.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\ref\Struct Implementation.dll
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.exe
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.deps.json
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.runtimeconfig.json
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.dll
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\bin\Debug\net6.0-windows\Struct Implementation.pdb
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.csproj.AssemblyReference.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct_Implementation.Form1.resources
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.csproj.GenerateResource.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.AssemblyInfoInputs.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.AssemblyInfo.cs
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.csproj.CoreCompileInputs.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.dll
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\refint\Struct Implementation.dll
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.pdb
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\Struct Implementation.genruntimeconfig.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Prelim\Activity\Struct Implementation\Struct Implementation\obj\Debug\net6.0-windows\ref\Struct Implementation.dll
