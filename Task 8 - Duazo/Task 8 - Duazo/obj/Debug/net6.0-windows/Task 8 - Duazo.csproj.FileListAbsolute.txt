@@ -1,0 +1,17 @@
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.csproj.AssemblyReference.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task_8___Duazo.Form1.resources
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.csproj.GenerateResource.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.AssemblyInfoInputs.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.AssemblyInfo.cs
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.csproj.CoreCompileInputs.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\bin\Debug\net6.0-windows\Task 8 - Duazo.exe
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\bin\Debug\net6.0-windows\Task 8 - Duazo.deps.json
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\bin\Debug\net6.0-windows\Task 8 - Duazo.runtimeconfig.json
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\bin\Debug\net6.0-windows\Task 8 - Duazo.dll
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\bin\Debug\net6.0-windows\Task 8 - Duazo.pdb
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.dll
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\refint\Task 8 - Duazo.dll
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.pdb
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\Task 8 - Duazo.genruntimeconfig.cache
+C:\Users\romme\Documents\BSIT 3\Application and Development\Task 8 - Duazo\Task 8 - Duazo\obj\Debug\net6.0-windows\ref\Task 8 - Duazo.dll
