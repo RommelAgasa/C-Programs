@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Events Demo\Events Demo\bin\Debug\Events Demo.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Events Demo\Events Demo\bin\Debug\Events Demo.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Events Demo\Events Demo\bin\Debug\Events Demo.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Events Demo\Events Demo\obj\Debug\Events Demo.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Events Demo\Events Demo\obj\Debug\Events Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Events Demo\Events Demo\obj\Debug\Events Demo.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Events Demo\Events Demo\obj\Debug\Events Demo.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\Events Demo\Events Demo\obj\Debug\Events Demo.pdb
