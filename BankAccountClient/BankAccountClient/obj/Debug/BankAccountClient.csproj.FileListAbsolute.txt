@@ -1,0 +1,8 @@
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\BankAccountClient\BankAccountClient\bin\Debug\BankAccountClient.exe.config
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\BankAccountClient\BankAccountClient\bin\Debug\BankAccountClient.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\BankAccountClient\BankAccountClient\bin\Debug\BankAccountClient.pdb
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\BankAccountClient\BankAccountClient\obj\Debug\BankAccountClient.csproj.AssemblyReference.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\BankAccountClient\BankAccountClient\obj\Debug\BankAccountClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\BankAccountClient\BankAccountClient\obj\Debug\BankAccountClient.csproj.CoreCompileInputs.cache
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\BankAccountClient\BankAccountClient\obj\Debug\BankAccountClient.exe
+C:\Users\romme\OneDrive\Documents\Event Driven Programming\BankAccountClient\BankAccountClient\obj\Debug\BankAccountClient.pdb
